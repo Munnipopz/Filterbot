@@ -22,7 +22,7 @@ PM_START_TEXT = """
 
 ```You You Can Add any kind of Filters to This Bot!```
 
-*Channel:© @MovesCompany*
+*```Owner:©``` @Mpazaan*
 
 /help for more details..
 """
@@ -41,7 +41,7 @@ DONATE_STRING = """Heya, glad to hear you want to donate!
 It took lots of work for [y Creator](https://t.me/Munnipopz) to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
 (see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [Movies Channel](https://t.me/joinchat/AAAAAEdoBMaQSuvk0xFNCw), or [group](https://t.me/joinchat/Oq1jlViv1uS2AkOG9MKChw)."""
+There are two ways of paying him; [Movies Channel](https://t.me/joinchat/AAAAAEdoBMaQSuvk0xFNCw), or [group](https://t.me/mpazaanbot)."""
 
 IMPORTED = {}
 MIGRATEABLE = []
